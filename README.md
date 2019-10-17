@@ -16,8 +16,6 @@
   <img src="https://top.gg/api/widget/627099725337853952.svg?test=123456" alt="Discord Bots" />
 </a></p>
 
-
-
 <hr>
 <br>
 <p align="center">A personagem Emilly é de propriedade de ImTeteus — Todos os direitos reservados.</p>
