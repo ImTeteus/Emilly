@@ -5,12 +5,10 @@
 <a href="https://www.emillybot.tk"><img src="https://img.shields.io/badge/website-lockdzn-informational.svg"></a>
 </p>
 <p align="center">
-<a href="https://twitter.com/intent/user?screen_name=LockDzn_"><img src="https://img.shields.io/twitter/url/https/twitter.com/intent/user.svg?label=Seguir%20LockDzn&style=social"></a>
-<h1 align="center">Kally 🤖</h1>
+<h1 align="center">💜 Emilly</h1>
 
 <p align="center">
 
-Agora o Kally está open source!
 💜 » Olá, meu nome é Emilly e sou uma simples robô brasileira para a plataforma Discord com várias funções simples
 
 <p align="center">
