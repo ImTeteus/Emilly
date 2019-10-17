@@ -1,6 +1,6 @@
 # Emilly
 <p align="center">
-<img height="384" src="https://imgur.com/a/jzTUKVi">
+<img height="384" src="https://imgur.com/v9rQyuB">
 <br>
 <a href="https://www.emillybot.tk"><img src="https://img.shields.io/badge/website-lockdzn-informational.svg"></a>
 </p>
