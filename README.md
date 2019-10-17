@@ -2,7 +2,7 @@
 <p align="center">
 <img height="384" src="https://cdn.discordapp.com/avatars/627099725337853952/ac06b3a2f03a96fcea11778151f5e455.png?size=2048">
 <br>
-<a href="https://www.emillybot.tk"><img src="https://img.shields.io/badge/website-lockdzn-informational.svg"></a>
+
 </p>
 <p align="center">
 <h1 align="center">💜 Emilly</h1>
