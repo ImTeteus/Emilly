@@ -10,5 +10,5 @@
 
 <hr>
 <br>
-<p align="center">A personagem Emilly é de propriedade de ImTeteu — Todos os direitos reservados.</p>
+<p align="center">A personagem Emilly é de propriedade de ImTeteus — Todos os direitos reservados.</p>
 <p align="center">"Discord", "DiscordApp" and any associated logos are registered trademarks of Discord Inc.</p>
