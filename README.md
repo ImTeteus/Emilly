@@ -1,4 +1,16 @@
 # Emilly
+<p align="center">
+<img height="384" src="https://i.imgur.com/QGbGUR8.png">
+<br>
+<a href="https://lockdzn.github.io/"><img src="https://img.shields.io/badge/website-lockdzn-informational.svg"></a>
+</p>
+<p align="center">
+<a href="https://twitter.com/intent/user?screen_name=LockDzn_"><img src="https://img.shields.io/twitter/url/https/twitter.com/intent/user.svg?label=Seguir%20LockDzn&style=social"></a>
+<h1 align="center">Kally 🤖</h1>
+
+<p align="center">
+
+Agora o Kally está open source!
 💜 » Olá, meu nome é Emilly e sou uma simples robô brasileira para a plataforma Discord com várias funções simples
 
 <p align="center">
