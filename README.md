@@ -1,8 +1,8 @@
 # Emilly
 <p align="center">
-<img height="384" src="https://i.imgur.com/QGbGUR8.png">
+<img height="384" src="https://imgur.com/a/jzTUKVi">
 <br>
-<a href="https://lockdzn.github.io/"><img src="https://img.shields.io/badge/website-lockdzn-informational.svg"></a>
+<a href="https://www.emillybot.tk"><img src="https://img.shields.io/badge/website-lockdzn-informational.svg"></a>
 </p>
 <p align="center">
 <a href="https://twitter.com/intent/user?screen_name=LockDzn_"><img src="https://img.shields.io/twitter/url/https/twitter.com/intent/user.svg?label=Seguir%20LockDzn&style=social"></a>
